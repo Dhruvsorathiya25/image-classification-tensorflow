@@ -31,6 +31,21 @@ Run the following command to install the required packages:
 pip install tensorflow opencv-python matplotlib
 ```
 
+## Dataset
+The dataset for this project can be sourced from **Kaggle** or other repositories. It should be organized into folders where each folder represents a class, containing images of that class. Place the dataset in the `data/` directory before running the notebook.
+
+Example folder structure:
+```
+data/
+    class1/
+        image1.jpg
+        image2.jpg
+    class2/
+        image3.jpg
+        image4.jpg
+```
+
+
 ## Usage
 
 1. **Clone the Repository**
